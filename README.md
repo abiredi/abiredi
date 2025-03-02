@@ -9,7 +9,7 @@ Driven by a deep interest in understanding how underlying infrastructure works, 
 - 📫 You can reach out via LINKEDIN ( https://www.linkedin.com/in/abhiramreddi/ ) or by email abhiramreddialugula@gmail.com
 
 Languages and Tools:
-
+Java, React, Angular, HTML, CSS, Python, machine learning.
 <!---
 abiredi/abiredi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
