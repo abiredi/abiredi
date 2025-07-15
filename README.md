@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhiram Reddy
 
-## 🚀 Full-Stack Developer & CS Student
+## 🚀 Full-Stack Developer, Generative AI, Prompt Engineer & CS Student
 
 I'm a Computer Science undergraduate student at Oklahoma State University with a passion for building innovative solutions. I specialize in full-stack web development and have diverse experience in product development, from medical AI monitoring systems to cloud-based applications.
 
