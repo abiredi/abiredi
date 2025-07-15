@@ -7,6 +7,7 @@ I'm a Computer Science undergraduate student at Oklahoma State University with a
 ### 🎯 What I Do
 - **Full-Stack Development**: Building end-to-end web applications
 - **AI/ML Integration**: Developing intelligent monitoring systems
+- **Generative AI**: Working with OpenAI, ChatGPT, and custom AI models
 - **Cloud Infrastructure**: Designing scalable cloud-based solutions
 - **Problem Solving**: Tackling complex technical challenges to improve customer efficiency
 
@@ -32,9 +33,13 @@ I'm actively looking for opportunities in:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### **AI/ML & Data Science**
+### **AI/ML & Generative AI**
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
-![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -45,6 +50,7 @@ I'm actively looking for opportunities in:
 ## 💼 Experience Highlights
 
 - **Medical AI Monitoring Systems**: Developed intelligent healthcare monitoring solutions
+- **Generative AI Applications**: Built applications leveraging OpenAI and ChatGPT APIs
 - **Cloud-Based Applications**: Built scalable applications leveraging cloud infrastructure
 - **Full-Stack Web Development**: Created end-to-end web solutions using modern technologies
 - **Product Development**: Focused on improving customer efficiency and convenience
