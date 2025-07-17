@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abiredi/static/css/main.4051be5b.css",
+    "main.js": "/abiredi/static/js/main.dd4b077d.js",
+    "static/js/453.bd8f5924.chunk.js": "/abiredi/static/js/453.bd8f5924.chunk.js",
+    "index.html": "/abiredi/index.html",
+    "main.4051be5b.css.map": "/abiredi/static/css/main.4051be5b.css.map",
+    "main.dd4b077d.js.map": "/abiredi/static/js/main.dd4b077d.js.map",
+    "453.bd8f5924.chunk.js.map": "/abiredi/static/js/453.bd8f5924.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4051be5b.css",
+    "static/js/main.dd4b077d.js"
+  ]
+}
